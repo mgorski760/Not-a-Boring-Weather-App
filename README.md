@@ -1,4 +1,4 @@
-# Weather Project
+# Not a Boring Weather App
 
 A full-stack weather dashboard that combines localized forecasts, interactive radar, and AI-assisted clothing recommendations. Search for a city to explore current forecast periods, detailed weather conditions, map-based radar data, and suggested attire tailored to the forecast.
 
